@@ -13,6 +13,6 @@
 </head>
 <body>
 안녕하세요<br>오늘은 젠킨스 CI/CD 파이프라인을 구축할 예정입니다<br>
-<img alt="" src="" style="width: 300px;">
+<img alt="" src="../image/IU.jpg" style="width: 300px;">
 </body>
 </html>
